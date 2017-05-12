@@ -1,0 +1,4 @@
+node
+0	Conveyors, Chutes, Skids, Guides, and Ways
+1	Deposit and Collection Receptacles
+2	Hazardous or Toxic Waste Destruction or Containment

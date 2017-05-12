@@ -1,0 +1,16 @@
+node
+0	berkeley.edu
+1	caltech.edu
+2	ucsb.edu
+3	ucr.edu
+4	digital.com
+5	ca.gov
+6	csun.edu
+7	calpoly.edu
+8	csupomona.edu
+9	csuchico.edu
+10	usc.edu
+11	csus.edu
+12	csulb.edu
+13	calstatela.edu
+14	garlic.com

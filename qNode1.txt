@@ -1,0 +1,4 @@
+1	Conveyors, Chutes, Skids, Guides, and Ways
+2	Deposit and Collection Receptacles
+3	Hazardous or Toxic Waste Destruction or Containment
+4	Demodulators

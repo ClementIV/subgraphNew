@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\feng\documents\visual studio 2015\projects\subgraphnew\subgraphnew\test.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+  subgraphNew.vcxproj -> C:\Users\Feng\documents\visual studio 2015\Projects\subgraphNew\Debug\subgraphNew.exe
+  subgraphNew.vcxproj -> C:\Users\Feng\documents\visual studio 2015\Projects\subgraphNew\Debug\subgraphNew.pdb (Full PDB)

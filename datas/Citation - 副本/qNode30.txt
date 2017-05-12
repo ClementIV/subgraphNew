@@ -1,0 +1,31 @@
+node
+0	Conveyors, Chutes, Skids, Guides, and Ways
+1	Deposit and Collection Receptacles
+2	Hazardous or Toxic Waste Destruction or Containment
+3	Demodulators
+4	Boot and Shoe Making
+5	Bridges
+6	Tool Changing
+7	Abrasive Tool Making Process, Material, or Composition
+8	Harness
+9	Leather Manufactures
+10	Metal Tools and Implements, Making
+11	Safes, Bank Protection, or a Related Device
+12	Sugar, Starch, and Carbohydrates
+13	Railway Draft Appliances
+14	Heating Systems
+15	Books, Strips, and Leaves
+16	Distillation: Processes, Thermolytic
+17	Electricity:  Transmission To Vehicles
+18	Electricity:  Motor Control Systems
+19	Electricity:  Single Generator Systems
+20	Tuners
+21	Compound Tools
+22	Roll or Roller
+23	Chain, Staple, and Horseshoe Making
+24	Ammunition and Explosive-Charge Making
+25	Jewelry
+26	Planting
+27	Stone Working
+28	Vehicle Fenders
+29	Wheelwright Machines

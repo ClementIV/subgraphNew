@@ -1,0 +1,61 @@
+node
+0	Conveyors, Chutes, Skids, Guides, and Ways
+1	Deposit and Collection Receptacles
+2	Hazardous or Toxic Waste Destruction or Containment
+3	Demodulators
+4	Boot and Shoe Making
+5	Bridges
+6	Tool Changing
+7	Abrasive Tool Making Process, Material, or Composition
+8	Harness
+9	Leather Manufactures
+10	Metal Tools and Implements, Making
+11	Safes, Bank Protection, or a Related Device
+12	Sugar, Starch, and Carbohydrates
+13	Railway Draft Appliances
+14	Heating Systems
+15	Books, Strips, and Leaves
+16	Distillation: Processes, Thermolytic
+17	Electricity:  Transmission To Vehicles
+18	Electricity:  Motor Control Systems
+19	Electricity:  Single Generator Systems
+20	Tuners
+21	Compound Tools
+22	Roll or Roller
+23	Chain, Staple, and Horseshoe Making
+24	Ammunition and Explosive-Charge Making
+25	Jewelry
+26	Planting
+27	Stone Working
+28	Vehicle Fenders
+29	Wheelwright Machines
+30	Trunks and Hand-Carried Luggage
+31	Fences
+32	Binder Device Releasably Engaging Aperture or Notch of Sheet
+33	Bookbinding: Process and Apparatus
+34	Crop Threshing or Separating
+35	Chemistry: Physical Processes
+36	Perfume Compositions
+37	Modulators
+38	Textiles:  Ironing or Smoothing
+39	Farriery
+40	Railway Switches and Signals
+41	Bee Culture
+42	Chemistry:  Fischer-Tropsch Processes; or Purification or Recovery of Products Thereof
+43	Undertaking
+44	Purses, Wallets, and Protective Covers
+45	Textiles: Cloth Finishing
+46	Wheel Substitutes for Land Vehicles
+47	Unearthing Plants or Buried Objects
+48	Merchandising
+49	Textiles: Braiding, Netting, and Lace Making
+50	Railways:  Surface Track
+51	Foundation Garments
+52	Amusement Devices
+53	Wooden Receptacles
+54	Coin Handling
+55	Friction Gear Transmission Systems or Components
+56	Threaded, Headed Fastener, or Washer Making: Process and Apparatus
+57	Concentrating Evaporators
+58	Knots and Knot Tying
+59	Motors:  Spring, Weight, or Animal Powered

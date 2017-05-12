@@ -1,0 +1,2 @@
+0	Conveyors, Chutes, Skids, Guides, and Ways
+1	Deposit and Collection Receptacles

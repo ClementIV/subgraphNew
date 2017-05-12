@@ -1,0 +1,16 @@
+node
+0	NV
+1	TN
+2	LA
+3	OH
+4	AL
+5	MD
+6	MO
+7	NH
+8	FL
+9	IL
+10	IA
+11	CO
+12	VA
+13	NY
+14	ID
